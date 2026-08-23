@@ -24,11 +24,7 @@ Contributions around model execution, CUDA graph correctness, speculative decodi
 | PR | Status / Role | Contribution |
 |---|---|---|
 | [#51113](https://github.com/vllm-project/vllm/pull/51113) | Merged · Co-author | Keep Mamba align prefill chunks block-aligned past `last_cache_position` |
-| [#47861](https://github.com/vllm-project/vllm/pull/47861) | Closed · Author | Fix MTP prefix-cache correctness for hybrid Mamba models |
-| [#38640](https://github.com/vllm-project/vllm/pull/38640) | Closed · Author | Fix null type or ID in final streaming tool-call chunks |
-| [#38010](https://github.com/vllm-project/vllm/pull/38010) | Closed · Author | Fix BitsAndBytes quantization for GLM-4.1V/4.6V-Flash |
 | [#37873](https://github.com/vllm-project/vllm/pull/37873) | Merged · Author | Fix RoBERTa `position_id` accumulation in CUDA graph padding |
-| [#37507](https://github.com/vllm-project/vllm/pull/37507) | Closed · Author | Add a fallback for older CUDA toolkits in GDN prefill |
 
 ### [AionUI](https://github.com/iOfficeAI/AionUi)
 
@@ -37,8 +33,6 @@ Contributions to agent integrations, ACP reliability, chat behavior, and UI robu
 | PR | Status / Role | Contribution |
 |---|---|---|
 | [#804](https://github.com/iOfficeAI/AionUi/pull/804) | Merged · Author | Integrate nanobot |
-| [#784](https://github.com/iOfficeAI/AionUi/pull/784) | Closed · Author | Prevent an undefined ACP agent backend |
-| [#568](https://github.com/iOfficeAI/AionUi/pull/568) | Closed · Author | Improve lagging replies and missing early messages |
 | [#550](https://github.com/iOfficeAI/AionUi/pull/550) | Merged · Author | Prevent long content from overflowing its block |
 
 ### [AIRI](https://github.com/moeru-ai/airi)

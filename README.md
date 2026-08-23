@@ -52,8 +52,6 @@ Four merged fixes improving speech-provider compatibility and voice selection in
 
 An open-source LLM observability platform for tracing OpenAI, Claude, Gemini, and OpenAI-compatible models. It combines a Python SDK, a web dashboard, and Java/Cloudflare backends to help developers inspect trace trees, understand latency and cost, and improve agent systems.
 
-`Python` · `TypeScript` · `Java` · `React` · `Cloudflare Workers` · `D1`
-
 ---
 
 <p align="center">

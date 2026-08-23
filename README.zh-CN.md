@@ -24,7 +24,6 @@
 | PR | 状态 / 角色 | 贡献内容 |
 |---|---|---|
 | [#51113](https://github.com/vllm-project/vllm/pull/51113) | 已合并 · 共同作者 | 保持 Mamba align prefill chunk 在 `last_cache_position` 之后仍按 block 对齐 |
-| [#49738](https://github.com/vllm-project/vllm/pull/49738) | 审核中 · 作者 | 修复 draft 裁剪后的异步 grammar bitmask 对齐问题 |
 | [#47861](https://github.com/vllm-project/vllm/pull/47861) | 已关闭 · 作者 | 修复混合 Mamba 模型的 MTP prefix cache 正确性问题 |
 | [#38640](https://github.com/vllm-project/vllm/pull/38640) | 已关闭 · 作者 | 修复流式工具调用最终 chunk 中 type 或 ID 为空的问题 |
 | [#38010](https://github.com/vllm-project/vllm/pull/38010) | 已关闭 · 作者 | 修复 GLM-4.1V/4.6V-Flash 的 BitsAndBytes 量化问题 |

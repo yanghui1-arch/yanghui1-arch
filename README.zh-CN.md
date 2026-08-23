@@ -50,9 +50,7 @@
 
 ### [mwin](https://github.com/yanghui1-arch/mwin) · [Cloudflare 在线体验](https://aitrace-cloudflare-backend.mwin-172f8144.workers.dev)
 
-一个开源的大模型可观测性平台，可追踪 OpenAI、Claude、Gemini 及兼容 OpenAI 接口的模型。项目包含 Python SDK、Web 控制台，以及 Java 与 Cloudflare 后端，帮助开发者查看 Trace Tree、分析延迟与成本，并持续改进 Agent 系统。
-
-`Python` · `TypeScript` · `Java` · `React` · `Cloudflare Workers` · `D1`
+一个开源的大模型可观测性平台，可追踪 OpenAI、Claude、Gemini 及兼容 OpenAI 接口的模型。项目包含 Python SDK、Web 控制台，以及 Java 与 Cloudflare 后端，帮助开发者查看 Trace Tree、分析延迟与成本，并持续改进 Agent 系统.
 
 ---
 

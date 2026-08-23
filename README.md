@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🎓 Graduate study in Computer Science at **Shanghai University**
+- 🎓 Third-year M.S. student in Computer Science at **Shanghai University**
 - 🏫 Undergraduate study in Computer Science at **Nanchang University**
 - 🔭 Interested in LLM inference, AI agents, observability, and full-stack systems
 - 🌱 I enjoy turning real-world bugs into focused, well-tested open-source contributions

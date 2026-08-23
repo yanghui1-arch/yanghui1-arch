@@ -24,7 +24,6 @@ Contributions around model execution, CUDA graph correctness, speculative decodi
 | PR | Status / Role | Contribution |
 |---|---|---|
 | [#51113](https://github.com/vllm-project/vllm/pull/51113) | Merged · Co-author | Keep Mamba align prefill chunks block-aligned past `last_cache_position` |
-| [#49738](https://github.com/vllm-project/vllm/pull/49738) | In review · Author | Fix async grammar bitmask alignment after draft trimming |
 | [#47861](https://github.com/vllm-project/vllm/pull/47861) | Closed · Author | Fix MTP prefix-cache correctness for hybrid Mamba models |
 | [#38640](https://github.com/vllm-project/vllm/pull/38640) | Closed · Author | Fix null type or ID in final streaming tool-call chunks |
 | [#38010](https://github.com/vllm-project/vllm/pull/38010) | Closed · Author | Fix BitsAndBytes quantization for GLM-4.1V/4.6V-Flash |
